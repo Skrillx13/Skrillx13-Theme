@@ -1,0 +1,8 @@
+# -- Project Information --
+title: Your awesome title
+
+# -- Configuration --
+source: ./content
+markdown: kramdown
+plugins:
+  - jekyll-feed
