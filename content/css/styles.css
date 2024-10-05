@@ -1,0 +1,8 @@
+/* Main CSS styling file. */
+@import url('https://fonts.googleapis.com/css2?family=Afacad+Flux:wght@100..1000&display=swap');
+
+* {
+    background-color: #f7f8f9;
+    font-family: Afacad Flux, sans-serif;
+    padding: 3px;
+}
